@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\RPG\bin\Debug\net6.0\RPG.exe
+C:\Users\cuttittejor\source\repos\Csharp\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\RPG\bin\Debug\net6.0\RPG.dll
+C:\Users\cuttittejor\source\repos\Csharp\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.dll
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\refint\RPG.dll
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\RPG\obj\Debug\net6.0\ref\RPG.dll
