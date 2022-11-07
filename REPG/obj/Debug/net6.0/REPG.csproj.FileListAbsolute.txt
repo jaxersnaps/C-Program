@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\REPG\bin\Debug\net6.0\REPG.exe
+C:\Users\cuttittejor\source\repos\Csharp\REPG\bin\Debug\net6.0\REPG.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\REPG\bin\Debug\net6.0\REPG.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\REPG\bin\Debug\net6.0\REPG.dll
+C:\Users\cuttittejor\source\repos\Csharp\REPG\bin\Debug\net6.0\REPG.pdb
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.dll
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\refint\REPG.dll
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.pdb
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\REPG.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\REPG\obj\Debug\net6.0\ref\REPG.dll

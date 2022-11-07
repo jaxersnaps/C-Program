@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\bin\Debug\net6.0\morerandstuff.exe
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\bin\Debug\net6.0\morerandstuff.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\bin\Debug\net6.0\morerandstuff.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\bin\Debug\net6.0\morerandstuff.dll
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\bin\Debug\net6.0\morerandstuff.pdb
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.dll
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\refint\morerandstuff.dll
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.pdb
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\morerandstuff.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\morerandstuff\obj\Debug\net6.0\ref\morerandstuff.dll

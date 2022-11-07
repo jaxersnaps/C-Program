@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\bin\Debug\net6.0\ASCII2.exe
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\bin\Debug\net6.0\ASCII2.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\bin\Debug\net6.0\ASCII2.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\bin\Debug\net6.0\ASCII2.dll
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\bin\Debug\net6.0\ASCII2.pdb
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.dll
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\refint\ASCII2.dll
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.pdb
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ASCII2.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\ASCII2\obj\Debug\net6.0\ref\ASCII2.dll
