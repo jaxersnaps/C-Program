@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\bin\Debug\net6.0\LoopingMaze.exe
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\bin\Debug\net6.0\LoopingMaze.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\bin\Debug\net6.0\LoopingMaze.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\bin\Debug\net6.0\LoopingMaze.dll
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\bin\Debug\net6.0\LoopingMaze.pdb
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.dll
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\refint\LoopingMaze.dll
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.pdb
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\LoopingMaze.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\LoopingMaze\obj\Debug\net6.0\ref\LoopingMaze.dll
