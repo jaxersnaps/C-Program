@@ -196,43 +196,54 @@
                             {
                                 if (inv1 == items[0])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[0]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[0]);
-                                    scrap -= scrapcost[0];
-                                    gold -= goldcost[0];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[0] && scrap >= goldcost[0])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[0]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[0]);
+
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
                                 if (inv1 == items[1])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[1]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[1]);
-                                    scrap -= scrapcost[1];
-                                    gold -= goldcost[1];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[1] && scrap >= goldcost[1])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[1]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[1]);
+
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
                                 if (inv1 == items[2])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[2]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[2]);
-                                    scrap -= scrapcost[2];
-                                    gold -= goldcost[2];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[2] && scrap >= goldcost[2])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[2]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[2]);
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
-                                if (inv1 == items[0])
+                                if (inv1 == items[0] && scrap >= scrapcost[0] && gold >= goldcost[0])
                                 {
                                     inv1 = items[1];
                                     Console.WriteLine("Upgraded to Metal Sword!");
+                                    scrap -= scrapcost[0];
+                                    gold -= goldcost[0];
                                     Console.WriteLine("Scrap: " + scrap);
                                     Console.WriteLine("Gold: " + gold);
                                     Thread.Sleep(1000);
                                 }
-                                else if (inv1 == items[1])
+                                else if (inv1 == items[1] && scrap >= scrapcost[1] && gold >= goldcost[1])
                                 {
                                     inv1 = items[2];
                                     Console.WriteLine("Upgraded to Silver Sword!");
+                                    scrap -= scrapcost[1];
+                                    gold -= goldcost[1];
                                     Console.WriteLine("Scrap: " + scrap);
                                     Console.WriteLine("Gold: " + gold);
-
                                     Thread.Sleep(1000);
                                 }
                             }
@@ -321,7 +332,7 @@
                                     Console.WriteLine("Gold: " + gold);
                                     Thread.Sleep(1000);
                                 }
-                                else if (inv1 == items[1] && scrap >= scrapcost[1] && gold >= goldcost[1])
+                                else if (inv2 == items[1] && scrap >= scrapcost[1] && gold >= goldcost[1])
                                 {
                                     inv2 = items[2];
                                     Console.WriteLine("Upgraded to Silver Sword!");
@@ -372,43 +383,54 @@
                             {
                                 if (inv2 == items[0])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[0]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[0]);
-                                    scrap -= scrapcost[0];
-                                    gold -= goldcost[0];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[0] && scrap >= goldcost[0])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[0]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[0]);
+
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
                                 if (inv2 == items[1])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[1]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[1]);
-                                    scrap -= scrapcost[1];
-                                    gold -= goldcost[1];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[1] && scrap >= goldcost[1])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[1]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[1]);
+
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
                                 if (inv2 == items[2])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[2]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[2]);
-                                    scrap -= scrapcost[2];
-                                    gold -= goldcost[2];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[2] && scrap >= goldcost[2])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[2]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[2]);
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
-                                if (inv2 == items[0])
+                                if (inv2 == items[0] && scrap >= scrapcost[0] && gold >= goldcost[0])
                                 {
                                     inv2 = items[1];
                                     Console.WriteLine("Upgraded to Metal Sword!");
+                                    scrap -= scrapcost[0];
+                                    gold -= goldcost[0];
                                     Console.WriteLine("Scrap: " + scrap);
                                     Console.WriteLine("Gold: " + gold);
                                     Thread.Sleep(1000);
                                 }
-                                else if (inv2 == items[1])
+                                else if (inv2 == items[1] && scrap >= scrapcost[1] && gold >= goldcost[1])
                                 {
                                     inv2 = items[2];
                                     Console.WriteLine("Upgraded to Silver Sword!");
+                                    scrap -= scrapcost[1];
+                                    gold -= goldcost[1];
                                     Console.WriteLine("Scrap: " + scrap);
                                     Console.WriteLine("Gold: " + gold);
-
                                     Thread.Sleep(1000);
                                 }
                             }
@@ -548,43 +570,54 @@
                             {
                                 if (inv3 == items[0])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[0]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[0]);
-                                    scrap -= scrapcost[0];
-                                    gold -= goldcost[0];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[0] && scrap >= goldcost[0])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[0]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[0]);
+
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
                                 if (inv3 == items[1])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[1]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[1]);
-                                    scrap -= scrapcost[1];
-                                    gold -= goldcost[1];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[1] && scrap >= goldcost[1])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[1]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[1]);
+
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
                                 if (inv3 == items[2])
                                 {
-                                    Console.WriteLine("Scrap Cost: " + scrapcost[2]);
-                                    Console.WriteLine("Gold Cost: " + goldcost[2]);
-                                    scrap -= scrapcost[2];
-                                    gold -= goldcost[2];
-                                    Thread.Sleep(1000);
+                                    if (gold >= scrapcost[2] && scrap >= goldcost[2])
+                                    {
+                                        Console.WriteLine("Scrap Cost: " + scrapcost[2]);
+                                        Console.WriteLine("Gold Cost: " + goldcost[2]);
+                                        Thread.Sleep(1000);
+                                    }
+
                                 }
-                                if (inv3 == items[0])
+                                if (inv3 == items[0] && scrap >= scrapcost[0] && gold >= goldcost[0])
                                 {
                                     inv3 = items[1];
                                     Console.WriteLine("Upgraded to Metal Sword!");
+                                    scrap -= scrapcost[0];
+                                    gold -= goldcost[0];
                                     Console.WriteLine("Scrap: " + scrap);
                                     Console.WriteLine("Gold: " + gold);
                                     Thread.Sleep(1000);
                                 }
-                                else if (inv3 == items[1])
+                                else if (inv3 == items[1] && scrap >= scrapcost[1] && gold >= goldcost[1])
                                 {
                                     inv3 = items[2];
                                     Console.WriteLine("Upgraded to Silver Sword!");
+                                    scrap -= scrapcost[1];
+                                    gold -= goldcost[1];
                                     Console.WriteLine("Scrap: " + scrap);
                                     Console.WriteLine("Gold: " + gold);
-
                                     Thread.Sleep(1000);
                                 }
                             }

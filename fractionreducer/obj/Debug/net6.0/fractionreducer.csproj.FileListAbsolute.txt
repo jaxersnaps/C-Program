@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\bin\Debug\net6.0\fractionreducer.exe
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\bin\Debug\net6.0\fractionreducer.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\bin\Debug\net6.0\fractionreducer.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\bin\Debug\net6.0\fractionreducer.dll
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\bin\Debug\net6.0\fractionreducer.pdb
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.dll
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\refint\fractionreducer.dll
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.pdb
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\fractionreducer.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\fractionreducer\obj\Debug\net6.0\ref\fractionreducer.dll

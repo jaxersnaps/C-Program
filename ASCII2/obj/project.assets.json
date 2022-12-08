@@ -8,19 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jaxso\\.nuget\\packages\\": {}
+    "C:\\Users\\cuttittejor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaxso\\Source\\Repos\\jaxersnaps\\C-Program\\ASCII2\\ASCII2.csproj",
+      "projectUniqueName": "C:\\Users\\cuttittejor\\source\\repos\\Csharp\\ASCII2\\ASCII2.csproj",
       "projectName": "ASCII2",
-      "projectPath": "C:\\Users\\jaxso\\Source\\Repos\\jaxersnaps\\C-Program\\ASCII2\\ASCII2.csproj",
-      "packagesPath": "C:\\Users\\jaxso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaxso\\Source\\Repos\\jaxersnaps\\C-Program\\ASCII2\\obj\\",
+      "projectPath": "C:\\Users\\cuttittejor\\source\\repos\\Csharp\\ASCII2\\ASCII2.csproj",
+      "packagesPath": "C:\\Users\\cuttittejor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cuttittejor\\source\\repos\\Csharp\\ASCII2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jaxso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cuttittejor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +58,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
