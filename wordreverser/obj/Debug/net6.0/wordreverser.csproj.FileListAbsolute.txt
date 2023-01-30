@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\bin\Debug\net6.0\wordreverser.exe
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\bin\Debug\net6.0\wordreverser.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\bin\Debug\net6.0\wordreverser.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\bin\Debug\net6.0\wordreverser.dll
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\bin\Debug\net6.0\wordreverser.pdb
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.dll
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\refint\wordreverser.dll
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.pdb
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\wordreverser.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\wordreverser\obj\Debug\net6.0\ref\wordreverser.dll

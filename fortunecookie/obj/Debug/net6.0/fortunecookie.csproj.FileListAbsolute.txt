@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\bin\Debug\net6.0\fortunecookie.exe
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\bin\Debug\net6.0\fortunecookie.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\bin\Debug\net6.0\fortunecookie.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\bin\Debug\net6.0\fortunecookie.dll
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\bin\Debug\net6.0\fortunecookie.pdb
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.dll
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\refint\fortunecookie.dll
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.pdb
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\fortunecookie.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\fortunecookie\obj\Debug\net6.0\ref\fortunecookie.dll

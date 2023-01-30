@@ -4,158 +4,190 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        StringBuilder sb1 = new StringBuilder("------------");
-        StringBuilder sb2 = new StringBuilder("|   #   #   |");
-        StringBuilder sb3 = new StringBuilder("--#---#------");
-        StringBuilder sb4 = new StringBuilder("|   #   #   |");
-        StringBuilder sb5 = new StringBuilder("--#----------");
-        StringBuilder sb6 = new StringBuilder("|   #   #   |");
-        StringBuilder sb7 = new StringBuilder("-------------");
-        sb2[2] = '@';
+       
         int room = 1;
-        
+
         do
         {
             Console.Clear();
-            Console.WriteLine(sb1);
-            Console.WriteLine(sb2);
-            Console.WriteLine(sb3);
-            Console.WriteLine(sb4);
-            Console.WriteLine(sb5);
-            Console.WriteLine(sb6);
-            Console.WriteLine(sb7);
             Console.WriteLine("Room: " + room);
-            Console.WriteLine("Welcome the my maze, WASD to move.");
+            Console.WriteLine("Welcome to my maze, WASD to move.");
             char answer = Convert.ToChar(Console.ReadLine());
-            
+
             if (room == 1)
             {
-                if (answer == 'd')
-                {
-                    room = 2;
-                    sb2[6] = '@';
-                    sb2[2] = ' ';
-                }
-                if (answer == 's')
-                {
-                    room = 4;
-                    sb4[2] = '@';
-                    sb2[2] = ' ';
-                }
+                room = room1(answer, room);
             }
             else if (room == 2)
-            {
-                if (answer == 's')
-                {
-                    room = 5;
-                    sb4[6] = '@';
-                    sb2[6] = ' ';
-                }
-                if (answer == 'd')
-                {
-                    room = 3;
-                    sb2[10] = '@';
-                    sb2[6] = ' ';
-                }
-                if (answer == 'a')
-                {
-                    room = 1;
-                    sb2[2] = '@';
-                    sb2[6] = ' ';
-                }
+            { 
+
+                room = room2(answer, room);
             }
             else if (room == 3)
             {
-                if (answer == 'a')
-                {
-                    sb2[6] = '@';
-                    sb2[10] = ' ';
-                    room = 2;
-                }
+                room = room3(answer, room);
             }
             else if (room == 4)
             {
-                if (answer == 'w')
-                {
-                    sb2[2] = '@';
-                    sb4[2] = ' ';
-                    room = 1;
-                }
-                if (answer == 'd')
-                {
-                    room = 5;
-                    sb4[6] = '@';
-                    sb4[2] = ' ';
-                }
-                if (answer == 's')
-                {
-                    room = 7;
-                    sb6[2] = '@';
-                    sb4[2] = ' ';
-                }
+                room = room4(answer, room);
             }
             else if (room == 5)
             {
-                if (answer == 'w')
-                {
-                    room = 2;
-                    sb2[6] = '@';
-                    sb4[6] = ' ';
-                }
-                if (answer == 'd')
-                {
-                    room = 6;
-                    sb4[10] = '@';
-                    sb4[6] = ' ';
-                }
-                if (answer == 'a')
-                {
-                    room = 4;
-                    sb4[2] = '@';
-                    sb4[6] = ' ';
-                }
+                room = room5(answer, room);
             }
             else if (room == 6)
             {
-                if (answer == 'a')
-                {
-                    room = 5;
-                    sb4[6] = '@';
-                    sb4[10] = ' ';
-                }
+                room = room6(answer, room);
             }
             else if (room == 7)
             {
-                if (answer == 'w')
-                {
-                    room = 4;
-                    sb4[2] = '@';
-                    sb6[2] = ' ';
-                }
-                if (answer == 'd')
-                {
-                    room = 8;
-                    sb6[6] = '@';
-                    sb6[2] = ' ';
-                }
+                room = room7(answer, room);
             }
             else if (room == 8)
             {
-                if (answer == 'd')
-                {
-                    room = 9;
-                    sb6[10] = '@';
-                    sb6[6] = ' ';
-                }
-                if (answer == 'a')
-                {
-                    room = 7;
-                    sb6[2] = '@';
-                    sb6[6] = ' ';
-                }
+                room = room8(answer, room);
             }
-        } while (room != 9);
+            else if (room == 9)
+            {
+                room = room9(answer, room);
+            }
+            else if (room == 10)
+            {
+                room = room10(answer, room);
+            }
+            else if (room == 11)
+            {
+                room = room11(answer, room);
+            }
+        } while (room != 12);
         Console.WriteLine("You win!");
+
     }
-}    
+    static int room1(char answer, int room)
+    {
+        if (answer == 'd')
+        {
+            room = 2;
+        }
+        if (answer == 's')
+        {
+            room = 4;
+        }
+        if (answer == 'e')
+        {
+            room = 12;
+        }
+        return room;
+    }
+    static int room2(char answer, int room)
+    {
+        if (answer == 's')
+        {
+            room = 5;
+        }
+        if (answer == 'd')
+        {
+            room = 3;
+        }
+        if (answer == 'a')
+        {
+            room = 1;
+        }
+        return room;
+    }
+    static int room3(char answer, int room)
+    {
+        if (answer == 'a')
+        {
+            room = 2;
+        }
+        return room;
+    }
+    static int room4(char answer, int room)
+    {
+        if (answer == 'w')
+        {
+            room = 1;
+        }
+        if (answer == 'd')
+        {
+            room = 5;
+        }
+        if (answer == 's')
+        {
+            room = 7;
+        }
+        return room;
+    }
+    static int room5(char answer, int room)
+    {
+        if (answer == 'w')
+        {
+            room = 2;
+        }
+        if (answer == 'd')
+        {
+            room = 6;
+        }
+        if (answer == 'a')
+        {
+            room = 4;
+        }
+        return room;
+    }
+    static int room6(char answer, int room)
+    {
+        room = 5;
+        return room;
+    }
+    static int room7(char answer, int room)
+    {
+        room = 8;
+        return room;
+    }
+    static int room8(char answer, int room)
+    {
+        if (answer  == 'd')
+        {
+            room = 9;
+        }
+        if (answer == 's')
+        {
+            room = 11;
+        }
+        return room;
+    }
+    static int room9(char answer, int room)
+    {
+        if (answer == 'a')
+        {
+            room = 8;
+        }
+        return room;
+    }
+    static int room10(char answer, int room)
+    {
+        if (answer == 'd')
+        {
+            room = 11;
+        }
+        return room;
+    }
+    static int room11(char answer, int room)
+    {
+        if (answer == 'd')
+        {
+            room = 12;
+        }
+        if (answer == 'w')
+        {
+            room = 8;
+        }
+        if (answer == 'a')
+        {
+            room = 11;
+        }
+        return room;
+    }
+}
     

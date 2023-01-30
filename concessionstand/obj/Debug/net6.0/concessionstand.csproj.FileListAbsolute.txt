@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\bin\Debug\net6.0\concessionstand.exe
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\bin\Debug\net6.0\concessionstand.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\bin\Debug\net6.0\concessionstand.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\bin\Debug\net6.0\concessionstand.dll
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\bin\Debug\net6.0\concessionstand.pdb
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.dll
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\refint\concessionstand.dll
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.pdb
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\concessionstand.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\concessionstand\obj\Debug\net6.0\ref\concessionstand.dll

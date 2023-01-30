@@ -17,9 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASCII Animation", "ASCII An
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopingMaze", "LoopingMaze\LoopingMaze.csproj", "{C956BD0E-6148-4333-B629-380CC4ED84BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fractionreducer", "fractionreducer\fractionreducer.csproj", "{DA874D64-2CD0-4CB9-B090-A53C523F2B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fractionreducer", "fractionreducer\fractionreducer.csproj", "{DA874D64-2CD0-4CB9-B090-A53C523F2B35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squarerootreducer", "squarerootreducer\squarerootreducer.csproj", "{99E43B6D-29C7-4B40-AFE1-3312FE607547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "squarerootreducer", "squarerootreducer\squarerootreducer.csproj", "{99E43B6D-29C7-4B40-AFE1-3312FE607547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fortunecookie", "fortunecookie\fortunecookie.csproj", "{4A9911F5-4EFE-47CD-A1E3-F243F22A7C23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wordreverser", "wordreverser\wordreverser.csproj", "{836E1427-8527-4099-BCB7-F5E1206F3731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concessionstand", "concessionstand\concessionstand.csproj", "{17EF6780-C9FF-46DB-BC82-293CF9406663}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{99E43B6D-29C7-4B40-AFE1-3312FE607547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99E43B6D-29C7-4B40-AFE1-3312FE607547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99E43B6D-29C7-4B40-AFE1-3312FE607547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9911F5-4EFE-47CD-A1E3-F243F22A7C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9911F5-4EFE-47CD-A1E3-F243F22A7C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9911F5-4EFE-47CD-A1E3-F243F22A7C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9911F5-4EFE-47CD-A1E3-F243F22A7C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836E1427-8527-4099-BCB7-F5E1206F3731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836E1427-8527-4099-BCB7-F5E1206F3731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836E1427-8527-4099-BCB7-F5E1206F3731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836E1427-8527-4099-BCB7-F5E1206F3731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EF6780-C9FF-46DB-BC82-293CF9406663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EF6780-C9FF-46DB-BC82-293CF9406663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EF6780-C9FF-46DB-BC82-293CF9406663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EF6780-C9FF-46DB-BC82-293CF9406663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\bin\Debug\net6.0\squarerootreducer.exe
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\bin\Debug\net6.0\squarerootreducer.deps.json
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\bin\Debug\net6.0\squarerootreducer.runtimeconfig.json
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\bin\Debug\net6.0\squarerootreducer.dll
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\bin\Debug\net6.0\squarerootreducer.pdb
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.csproj.AssemblyReference.cache
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.AssemblyInfoInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.AssemblyInfo.cs
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.csproj.CoreCompileInputs.cache
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.dll
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\refint\squarerootreducer.dll
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.pdb
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\squarerootreducer.genruntimeconfig.cache
+C:\Users\cuttittejor\source\repos\Csharp\squarerootreducer\obj\Debug\net6.0\ref\squarerootreducer.dll
